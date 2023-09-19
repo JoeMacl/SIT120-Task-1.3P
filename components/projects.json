@@ -1,0 +1,43 @@
+{
+    "ProjectsArray" : [
+        {
+            "id" : 1,
+            "Title" : "Project One",
+            "About" : "In this project, I created a job application form that adapts its prerequisites based on the chosen job category.",
+            "Image": "../src/assets/sc1.png",
+            "Link1" : "https://github.com/",
+            "Link2" : "https://github.com/JoeMacl/SIT313-Task-5.1C"
+
+        },
+
+        {
+            "id" : 2,
+            "Title" : "Project Two",
+            "About" : "For this project, I created a homepage that showcases a list of featured freelances, complete with reviews and an option to view more or fewer listings.",
+            "Image" : "../src/assets/sc2.png",
+            "Link1" : "https://github.com/",
+            "Link2" : "https://github.com/JoeMacl/SIT313-Task4.1P"
+
+        },
+
+        {
+            "id" : 3,
+            "Title" : "Project Three",
+            "About" : "For this project, I developed a personal website that fulfilled all the specified design requirements.",
+            "Image" : "../src/assets/ss3.jpg",
+            "Link1" : "https://github.com/",
+            "Link2" : "https://github.com/JoeMacl/SIT120-Task-1.1P"
+
+        },
+
+        {
+            "id" : 4,
+            "Title" : "Project Four",
+            "About" : "I designed a login and registration page for the Devlink web application, which includes a database to store user information.",
+            "Image" : "../src/assets/ss1.png",
+            "Link1" : "https://github.com/",
+            "Link2" : "https://github.com/JoeMacl/SIT313-Task7.1P"
+
+        }
+    ]
+}
